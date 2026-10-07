@@ -1,0 +1,1 @@
+a branch is a pointer that moves to the latest commit where changes can be made on the working folder then commit them on the branch which creates a pointer towards the new commit , it doesnt include the new commit in main until its merged so if anyone wants to go back to the origonal workspace they can
